@@ -1,4 +1,3 @@
-# main.py
 from game import MagnetGame
 
 def main():
